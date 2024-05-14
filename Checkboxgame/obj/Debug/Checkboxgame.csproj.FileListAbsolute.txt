@@ -1,0 +1,15 @@
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\bin\Debug\Checkboxgame.exe.config
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\bin\Debug\Checkboxgame.exe
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\bin\Debug\Checkboxgame.pdb
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.csproj.AssemblyReference.cache
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\MainWindow.g.cs
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\App.g.cs
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame_MarkupCompile.cache
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame_MarkupCompile.lref
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\MainWindow.baml
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.g.resources
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.Properties.Resources.resources
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.csproj.GenerateResource.cache
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.csproj.CoreCompileInputs.cache
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.exe
+C:\Users\Q11069\Documents\Projekte\C#\Checkboxgame\Checkboxgame\obj\Debug\Checkboxgame.pdb
